@@ -1,0 +1,4 @@
+﻿  GlutTut.cpp
+C:\dev\GlutTut\GlutTut\GlutTut.cpp(69,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\dev\GlutTut\GlutTut\GlutTut.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+  GlutTut.vcxproj -> C:\dev\GlutTut\Debug\GlutTut.exe
